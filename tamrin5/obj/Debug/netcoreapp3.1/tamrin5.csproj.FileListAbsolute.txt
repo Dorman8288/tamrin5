@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\code\c#\console\tamrin5\tamrin5\bin\Debug\netcoreapp3.1\tamrin5.exe
+C:\Users\User\Desktop\code\c#\console\tamrin5\tamrin5\bin\Debug\netcoreapp3.1\tamrin5.deps.json
+C:\Users\User\Desktop\code\c#\console\tamrin5\tamrin5\bin\Debug\netcoreapp3.1\tamrin5.runtimeconfig.json
+C:\Users\User\Desktop\code\c#\console\tamrin5\tamrin5\bin\Debug\netcoreapp3.1\tamrin5.runtimeconfig.dev.json
+C:\Users\User\Desktop\code\c#\console\tamrin5\tamrin5\bin\Debug\netcoreapp3.1\tamrin5.dll
+C:\Users\User\Desktop\code\c#\console\tamrin5\tamrin5\bin\Debug\netcoreapp3.1\tamrin5.pdb
+C:\Users\User\Desktop\code\c#\console\tamrin5\tamrin5\obj\Debug\netcoreapp3.1\tamrin5.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\code\c#\console\tamrin5\tamrin5\obj\Debug\netcoreapp3.1\tamrin5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\code\c#\console\tamrin5\tamrin5\obj\Debug\netcoreapp3.1\tamrin5.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\code\c#\console\tamrin5\tamrin5\obj\Debug\netcoreapp3.1\tamrin5.AssemblyInfo.cs
+C:\Users\User\Desktop\code\c#\console\tamrin5\tamrin5\obj\Debug\netcoreapp3.1\tamrin5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\code\c#\console\tamrin5\tamrin5\obj\Debug\netcoreapp3.1\tamrin5.dll
+C:\Users\User\Desktop\code\c#\console\tamrin5\tamrin5\obj\Debug\netcoreapp3.1\tamrin5.pdb
+C:\Users\User\Desktop\code\c#\console\tamrin5\tamrin5\obj\Debug\netcoreapp3.1\tamrin5.genruntimeconfig.cache
